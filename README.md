@@ -10,7 +10,7 @@ Ceci est une liste d'institutions (Entreprises et ONG) présentes au *Sénégal*
 | `INSTITUTIONS` | `DESCRIPTION` |
 | :-----------:| :----------: |
 | [ADNCorp](https://www.adncorp.com/)   | Société technologique spécialisée en Data, Business Intelligence, IA & Chatbots.
-| [Agence japonaise de coopération internationale (JICA)](https://www.jica.go.jp/french/index.html)	| Institution administrative indépendante visant à contribuer à la promotion de la coopération internationale.
+| [Agence Japonaise de Coopération Internationale (JICA)](https://www.jica.go.jp/french/index.html)	| Institution administrative indépendante visant à contribuer à la promotion de la coopération internationale.
 | [Air Sénégal](https://flyairsenegal.com/en/home/)   | Compagnie aérienne nationale sénégalaise.
 | [AKADEMIYA 2063](https://www.akademiya2063.org/)	| Organisme aidant à répondre aux besoins des pays africains en termes de données, d'analyses et d'apprentissage mutuel pour une mise en œuvre efficace de l'Agenda 2063.
 | [AKILEE SA](https://akilee-by-ines.com/)	| Société technologique de services énergétiques.
@@ -45,7 +45,7 @@ Ceci est une liste d'institutions (Entreprises et ONG) présentes au *Sénégal*
 | [MNS Consulting](https://mns-consulting.com/)   | Société internationale de conseil en stratégie et en ingénierie spécialisée dans l'industrie des télécommunications et du numérique.
 | [OBERTYS](http://obertys.com/)   | Cabinet spécialisé en technologie bancaire et solutions financières ainsi que l'audit IT, le conseil, la gestion de projet, la formation et le développement de logiciel sur mesure.
 | [Orange Sénégal - SONATEL](https://sonatel.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal.
-| [Performance group](https://performancesgroup.com/)	| Entreprise de conseil en management auprès des institutions et des entreprises en Afrique francophone.
+| [Performance Group](https://performancesgroup.com/)	| Entreprise de conseil en management auprès des institutions et des entreprises en Afrique francophone.
 | [Port Autonome de Dakar](https://www.portdakar.sn/)	| Autorité portuaire de Dakar.
 | [Programme Alimentaire Mondial (PAM)](https://fr.wfp.org/)	| Organisation humanitaire qui sauve des vies dans les situations d'urgence et utilise l'aide alimentaire pour ouvrir la voie à la paix, à la stabilité et à la prospérité pour les personnes qui se remettent de conflits, de catastrophes et de l'impact du changement climatique.
 | [Programme des Nations Unies pour le Développement (PNUD)](https://www1.undp.org/content/undp/fr/home.html)	| Organisme aidant les pays en développement en leur fournissant des conseils et en plaidant leurs causes pour l'octroi de dons.
@@ -86,6 +86,6 @@ Pour ajouter ou modifier une entrée dans la table, veuillez:
 Si vous avez trouvé ces informations utiles, n'hésitez pas à `laisser une étoile` 🌟️ et à `partager` SVP 🎁️
 J'ai également créé un canal [Telegram](https://t.me/galsenitinfo) où on partage diverses opportunités de formation, de stage, d'emploi etc.
 
-### CONTRIBUTEURS
-[![My Twitter Link](https://img.shields.io/twitter/follow/derguene?style=social)](https://twitter.com/derguene)
+### CONTRIBUTEURS 👨‍🔧️
+[![My Twitter Link](https://img.shields.io/twitter/follow/derguene?style=social)](https://twitter.com/derguene) | 
 [![My Twitter Link](https://img.shields.io/twitter/follow/mdense2?style=social)](https://twitter.com/mdense2)
