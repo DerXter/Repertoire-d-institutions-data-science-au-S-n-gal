@@ -12,26 +12,27 @@ Ceci est une liste d'institutions (Entreprises et ONG) présentes au *Sénégal*
 | [ADNCorp](https://www.adncorp.com/)   | Société technologique spécialisée en Data, Business Intelligence, IA & Chatbots.
 | [Air Sénégal](https://flyairsenegal.com/en/home/)   | Compagnie aérienne nationale sénégalaise.
 | [ANACIM (Agence Nationale de l'Aviation Civile et de la Météorologie)](http://www.anacim.sn/)   | Organisme chargé du suivi des engagements de l’Etat en matière d’aviation civile et de la météorologie.
-| [ANSD (Agence Nationale de la Statistique et de la Démographie)](http://www.ansd.sn/)   | Service officiel des #statistiques du Sénégal.
+| [ANSD (Agence Nationale de la Statistique et de la Démographie)](http://www.ansd.sn/)   | Service officiel des statistiques du Sénégal.
 | [ATOS Sénégal](https://atos.net/fr/)   | Entreprise de solutions digitales spécialisée dans des services de conseil, des offres de sécurité numérique et de décarbonisation avec une approche de partenariat de bout en bout.
 | [ATPS SA](https://atps.africa/)   | Société de technologie spécialisée dans la fourniture de services financiers ainsi que dans le consulting à destination des entreprises, des institutions et des particuliers.
 | [Baamtu](https://baamtu.com/)   | Entreprise d’ingénierie logicielle, de business intelligence, et d'intelligence artificielle. |
 | [BeOpenIT](https://www.beopenit.com/)   | Cabinet de conseil en cloud, DevOps, IA et cybersécurité proposant des formations, des produits et du support.
 | [BICIS - Groupe BNP Paribas](https://www.bicis.sn/)   | Banque Internationale pour le Commerce et l’Industrie du Sénégal 
-| [DataDevAfrica Consulting](http://datadevafrica.com/)   | Société de recherche et de conseil, regroupant des experts de haut niveau pour fournir des solutions éclairées et fondées sur des données dans divers domaines.
-| [Direction des Systèmes Informatiques Douanières](https://www.douanes.sn)   | Gestion Automatisée des Informations Douanières et des Echanges.
-| [Expat Dakar](https://www.expat-dakar.com/)   | Portail offrant une façon simple, efficace et pratique d’acheter et de vendre des biens ou des services.
+| [DataDevAfrica Consulting](http://datadevafrica.com/)   | Société de recherche et de conseil, fournissant des solutions éclairées et fondées sur des données dans divers domaines.
+| [Direction des Systèmes Informatiques Douanières](https://www.douanes.sn)   | Gestion automatisée des informations douanières et des échanges.
+| [EXPAT Dakar](https://www.expat-dakar.com/)   | Portail offrant une façon simple, efficace et pratique d’acheter et de vendre des biens ou des services.
 | [Expresso Sénégal](https://www.expressotelecom.sn/)   | Entreprise africaine de télécommunications et de services d'information.
 | [FAO Dakar (Food and Agriculture Organization of the UN)](https://www.fao.org/senegal/fr/)   | Organisation œuvrant à la sécurité alimentaire pour tous.
 | [Free Sénégal](https://www.free.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal.
-| [Manobi Africa - Agcelerant](https://www.manobi.com/)   | Entreprise qui orchestre la création de valeur inclusive au sein des chaînes agricoles et des systèmes d'eau potable.
+| [Gitech Sénégal](https://gitechsn.com/)	| Entreprise spécialisée dans la conception de solutions logicielles, l’innovation technologique et la sécurité des réseaux informatiques.
+| [Manobi Africa - Agcelerant](https://www.manobi.com/)   | Entreprise orchestrant la création de valeur inclusive au sein des chaînes agricoles et des systèmes d'eau potable.
 | [MNS Consulting](https://mns-consulting.com/)   | Société internationale de conseil en stratégie et en ingénierie spécialisée dans l'industrie des télécommunications et du numérique.
 | [OBERTYS](http://obertys.com/)   | Cabinet spécialisé en technologie bancaire et solutions financières ainsi que l'audit IT, le conseil, la gestion de projet, la formation et le développement de logiciel sur mesure.
 | [Orange Sénégal - SONATEL](https://sonatel.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal.
-| [Programme national de lutte contre le paludisme (PNLP)](https://pnlp.sn/)   | Organisme charge de la mise en œuvre la Politique de lutte contre le paludisme au Sénégal.
+| [Programme National de Lutte Contre le Paludisme (PNLP)](https://pnlp.sn/)   | Organisme chargé de la mise en œuvre la politique de lutte contre le paludisme au Sénégal.
 | [Synapse Center](https://synapsecenter.org/)   | Entreprise sociale à but non lucratif dont le but est de contribuer à un monde durable où l'impact social et le profit sont activement et simultanément entretenus.
 | [TERINNOVA](https://terinnova.com/)   | Entreprise sénégalaise ouverte à l'international, spécialisée dans la mise en œuvre de solutions informatiques liées à la gestion des systèmes d'information et des systèmes d'infrastructure réseaux.
-| [UNICEF (Fonds des Nations unies pour l'enfance)](https://www.unicef.org/)   | Organisme œuvrant dans le but de sauver la vie des enfants les plus défavorisés du monde, défendre leurs droits et les aider à réaliser leur potentiel.
+| [UNICEF (Fonds des Nations Unies pour l'Enfance)](https://www.unicef.org/)   | Organisme œuvrant dans le but de sauver la vie des enfants les plus défavorisés du monde, défendre leurs droits et les aider à réaliser leur potentiel.
 | [Université Cheikh Anta Diop de Dakar (UCAD)](https://www.ucad.sn/)   | Principale université de Dakar et l'une des plus anciennes d'Afrique de l'Ouest.
 | [United Nations OCHA Dakar (Office for the Coordination of Humanitarian Affairs)](https://www.unocha.org/west-and-central-africa-rowca/about-ocha-rowca)   | La partie de l'ONU chargée de rassembler les humanitaires pour répondre efficacement aux urgences.
 | [Way2Call](https://way2call.sn/)   | Société de vente en gros basée au Sénégal.
