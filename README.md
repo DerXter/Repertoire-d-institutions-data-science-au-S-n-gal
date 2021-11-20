@@ -7,8 +7,8 @@
 Ceci est une liste d'institutions (Entreprises et ONG) présentes au *Sénégal* (Afrique de l'Ouest) où *il serait* possible d'exercer un métier autour de l'Intelligence Artificielle, l'Apprentissage Automatique, le Big Data et la Science des Données.
 > *DISCLAIMER:* Cette liste `n'est en aucun cas une liste officielle` et n'est basée que sur ma propre observation. Si vous constatez une anomalie quelconque, veuillez me la signaler en suivant les indications de la section [Contribution](#contribution).
 
-| Institutions | Description |
-| ------:| -----------:|
+| `INSTITUTIONS` | `DESCRIPTION` |
+| :-----------:| :---------- |
 | [ADNCorp](https://www.adncorp.com/)   | Société technologique spécialisée en Data, Business Intelligence, IA & Chatbots.
 | [Air Sénégal](https://flyairsenegal.com/en/home/)   | Compagnie aérienne nationale sénégalaise.
 | [ANACIM (Agence nationale de l'aviation civile et de la météorologie)](http://www.anacim.sn/)   | Organisme chargé du suivi des engagements de l’Etat en matière d’aviation civile et de la météorologie.
@@ -40,7 +40,7 @@ Ceci est une liste d'institutions (Entreprises et ONG) présentes au *Sénégal*
 
 Merci beaucoup pour votre intérêt et pour votre soutien 🙂️ toute aide est la bienvenue 🤗️  
 
-Si vous êtes en mesure de manipuler des fichiers `Markedown`, Alléluia 🕺️ Dans le cas contraire, envoyez moi simplement votre contribution (ajout d'une institution ou signalement d'une erreur) par mail à `mbayederguene[at]hotmail[dot]com` 👨‍💻️
+Si vous êtes en mesure de manipuler des fichiers `Markedown`, Alléluia 🕺️ Dans le cas contraire, envoyez moi simplement votre contribution (ajout d'une institution ou signalement d'une erreur) par mail à `mbayederguene[at]hotmail[dot]com` 👨‍💻️ ou en message privé sur [Twitter](https://twitter.com/derguene) ou [LinkedIn](https://www.linkedin.com/in/derguene-mbaye/).
 
 ### INSTRUCTIONS 📜️
 
