@@ -4,11 +4,11 @@
 ![Issues](https://img.shields.io/github/issues/DerXter/Repertoire-d-institutions-data-science-au-S-n-gal)
 ![PR](https://img.shields.io/github/issues-pr/DerXter/Repertoire-d-institutions-data-science-au-S-n-gal)
 
-Ceci est une liste d'institutions (Entreprises et ONG) présentes au *Sénégal* (Afrique de l'Ouest) où *il serait* possible d'exercer un métier autour de l'Intelligence Artificielle, l'Apprentissage Automatique, le Big Data et la Science des Données.
+Ceci est une liste d'institutions (Entreprises et ONG) présentes au *Sénégal* (Afrique de l'Ouest) où *il serait* possible d'exercer un métier autour de `l'Intelligence Artificielle`, `l'Apprentissage Automatique`, `le Big Data` et `la Science des Données`.
 > *DISCLAIMER:* Cette liste `n'est en aucun cas une liste officielle` et n'est basée que sur ma propre observation. Si vous constatez une anomalie quelconque, veuillez me la signaler en suivant les indications de la section [Contribution](#contribution).
 
 | `INSTITUTIONS` | `DESCRIPTION` |
-| :-----------:| :---------- |
+| :-----------:| :----------: |
 | [ADNCorp](https://www.adncorp.com/)   | Société technologique spécialisée en Data, Business Intelligence, IA & Chatbots.
 | [Air Sénégal](https://flyairsenegal.com/en/home/)   | Compagnie aérienne nationale sénégalaise.
 | [ANACIM (Agence nationale de l'aviation civile et de la météorologie)](http://www.anacim.sn/)   | Organisme chargé du suivi des engagements de l’Etat en matière d’aviation civile et de la météorologie.
