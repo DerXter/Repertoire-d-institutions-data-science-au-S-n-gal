@@ -13,7 +13,7 @@ Ceci est une liste d'institutions (Entreprises et ONG) présentes au *Sénégal*
 | :-----------:|
 | [`ENTREPRISES PRIVÉES`](Institutions/Entreprises.md) 🔒️      |
 | [`ORGANISMES PUBLICS`](Institutions/ONG-Associations.md) 🏢️ |
-| [`ÉTABLISSEMENTS DE FORMATION`](Formations.md) ✍️|
+| [`ÉTABLISSEMENTS DE FORMATION`](Institutions/Formations.md) ✍️|
 
 ## CONTRIBUTION 🤝️
 
