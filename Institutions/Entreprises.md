@@ -29,4 +29,5 @@
 | `MENU` |
 | :-----------:|
 | [`VOIR LES ORGANISMES PUBLICS`](ONG-Associations.md) 🏢️ |  
+| [`VOIR LES ÉTABLISSEMENTS DE FORMATION`](Formations.md) ✍️|
 | [`ACCUEIL`](../README.md) 🏃‍♂️️ |

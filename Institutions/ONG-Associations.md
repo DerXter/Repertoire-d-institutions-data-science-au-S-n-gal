@@ -32,5 +32,6 @@
   
 | `MENU` |
 | :-----------:|
-| [VOIR LES *ENTREPRISES PRIVÉES*](Entreprises.md) 🔒️ |  
+| [`VOIR LES ENTREPRISES PRIVÉES`](Entreprises.md) 🔒️ |  
+| [`VOIR LES ÉTABLISSEMENTS DE FORMATION`](Formations.md) ✍️|
 | [`ACCUEIL`](../README.md) 🏃‍♂️️ |
