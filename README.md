@@ -45,4 +45,5 @@ J'ai également créé un canal [Telegram](https://t.me/galsenitinfo) où on par
 
 ### CONTRIBUTEURS 👨‍🔧️
 [![My Twitter Link](https://img.shields.io/twitter/follow/derguene?style=social)](https://twitter.com/derguene) | 
-[![My Twitter Link](https://img.shields.io/twitter/follow/mdense2?style=social)](https://twitter.com/mdense2)
+[![My Twitter Link](https://img.shields.io/twitter/follow/mdense2?style=social)](https://twitter.com/mdense2) |
+[![My Twitter Link](https://img.shields.io/twitter/follow/tapha_yarway?style=social)](https://twitter.com/tapha_yarway)
