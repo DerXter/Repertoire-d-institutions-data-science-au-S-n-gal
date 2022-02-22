@@ -7,6 +7,7 @@
 | [Colombe Academy of Technology - CAT](https://cat.sn/)	|  [Licence Data Science](https://cat.sn/course/data-science/) <br /> [Master Data Science & Intelligence Artificielle (IA)](https://cat.sn/course/data-science-intelligence-artificielle-ia/)
 | [Dakar Institute of Technology - DIT](https://dit.sn/) | [Licence Informatique "Big Data"](https://dit.sn/licence-big-data/) <br /> [Master Intelligence Artificielle](https://dit.sn/master-intelligence-artificielle/) <br /> [Formation Intensive Data Science](https://dit.sn/formation-datascience/) <br /> [Formations certifiantes Python](https://dit.sn/python/)
 | [Ecole Supérieure Multinationale des Télécommunications - ESMT](https://www.esmt.sn/)   | [Master Data Sciences & Intelligences Artificielles (DSIA)](https://www.esmt.sn/fr/cycles-et-diplomes) <br /> *cf. Section E-Learning en bas*
+| [École Supérieure Polytechnique de Dakar - ESP](https://esp.sn/) | [Master en Intelligence artificielle et Big data](https://esp.sn/formations/master-en-intelligence-artificielle-et-big-data-miabd/)
 | [GiveOneProject Academy](https://give1project.net/g1p-digital-skills-academy/) | Artificial Intelligence, Data Analytics, Machine Learning, Deep Learning
 | [Institut Africain de Management - IAM](https://www.groupeiam.com/) | [Master en BI & BIG DATA](https://www.groupeiam.com/nosprogrammes/master-en-bi-big-data/)
 | [Institut Supérieur d’Informatique - ISI](https://www.groupeisi.com/) |  [Master en Data Science et Intelligence Artificielle](https://www.groupeisi.com/?page_id=49331)
