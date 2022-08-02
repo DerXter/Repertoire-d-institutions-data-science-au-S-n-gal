@@ -4,6 +4,7 @@
 | `ÉTABLISSEMENTS` | `FORMATIONS` |
 | :-----------:| :----------: |
 | [African Institute for Mathematical Sciences - AIMS](https://aims-senegal.org/fr/) | [Master Africain en Intelligence Artificielle (AMMI)](https://aims-senegal.org/fr/african-masters-in-machine-learning/)
+| [Azubi Africa](https://www.azubiafrica.org/) | [Data Analyst Track](https://www.azubiafrica.org/data-track)
 | [Colombe Academy of Technology - CAT](https://cat.sn/)	|  [Licence Data Science](https://cat.sn/course/data-science/) <br /> [Master Data Science & Intelligence Artificielle (IA)](https://cat.sn/course/data-science-intelligence-artificielle-ia/)
 | [Dakar Institute of Technology - DIT](https://dit.sn/) | [Licence Informatique "Big Data"](https://dit.sn/licence-big-data/) <br /> [Master Intelligence Artificielle](https://dit.sn/master-intelligence-artificielle/) <br /> [Formation Intensive Data Science](https://dit.sn/formation-datascience/) <br /> [Formations certifiantes Python](https://dit.sn/python/)
 | [Ecole Supérieure Multinationale des Télécommunications - ESMT](https://www.esmt.sn/)   | [Master Data Sciences & Intelligences Artificielles (DSIA)](https://www.esmt.sn/fr/cycles-et-diplomes) <br /> *cf. Section E-Learning en bas*
