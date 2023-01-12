@@ -5,6 +5,7 @@
 | :-----------:| :----------: |
 | [ADNCorp](https://www.adncorp.com/)   | Société technologique spécialisée en Data, Business Intelligence, IA & Chatbots.
 | [Air Sénégal](https://flyairsenegal.com/en/home/)   | Compagnie aérienne nationale sénégalaise.
+| [Airudi Afrique](https://www.airudi.com//)   | Compagnie de solutions logicielles qui utilise l'intelligence artificielle pour propulser les ressources humaines.
 | [AKILEE SA](https://akilee-by-ines.com/)	| Société technologique de services énergétiques.
 | [ATOS Sénégal](https://atos.net/fr/)   | Entreprise de solutions digitales spécialisée dans des services de conseil, des offres de sécurité numérique et de décarbonisation avec une approche de partenariat de bout en bout.
 | [ATPS SA](https://atps.africa/)   | Société de technologie spécialisée dans la fourniture de services financiers ainsi que dans le consulting à destination des entreprises, des institutions et des particuliers.
@@ -18,7 +19,7 @@
 | [Free Sénégal](https://www.free.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal.
 | [Gitech Sénégal](https://gitechsn.com/)	| Entreprise spécialisée dans la conception de solutions logicielles, l’innovation technologique et la sécurité des réseaux informatiques.
 | [IBM Sénégal](https://www.ibm.com/sn-fr)   | Entreprise évoluant dans les domaines du matériel informatique, du logiciel et des services informatiques.
-| [Lengo](https://linkedin.com/company/lengoafrica/)   | Start-up basée à Dakar qui propose la première solution digital de retail audit pour permettre aux FMCGs d'arrêter de deviner l'Afrique.
+| [Lengo](https://www.lengo.africa/)   | Start-up basée à Dakar qui propose la première solution digital de retail audit pour permettre aux FMCGs d'arrêter de deviner l'Afrique.
 | [Manobi Africa - Agcelerant](https://www.manobi.com/)   | Entreprise orchestrant la création de valeur inclusive au sein des chaînes agricoles et des systèmes d'eau potable.
 | [MNS Consulting](https://mns-consulting.com/)   | Société internationale de conseil en stratégie et en ingénierie spécialisée dans l'industrie des télécommunications et du numérique.
 | [OBERTYS](http://obertys.com/)   | Cabinet spécialisé en technologie bancaire et solutions financières ainsi que l'audit IT, le conseil, la gestion de projet, la formation et le développement de logiciel sur mesure.
