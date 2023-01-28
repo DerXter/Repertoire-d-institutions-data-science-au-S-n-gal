@@ -12,6 +12,7 @@
 | [Baamtu](https://baamtu.com/)   | Entreprise d’ingénierie logicielle, de business intelligence, et d'intelligence artificielle
 | [BeOpenIT](https://www.beopenit.com/)   | Cabinet de conseil en cloud, DevOps, IA et cybersécurité proposant des formations, des produits et du support
 | [BICIS - Groupe BNP Paribas](https://www.bicis.sn/)   | Banque Internationale pour le Commerce et l’Industrie du Sénégal 
+| [DataBeez](https://data-beez.com/)   | Première startup africaine à visée internationale exclusivement destinée aux métiers de l'IA, du digital et de l'Intelligence Artificielle
 | [DataDevAfrica Consulting](http://datadevafrica.com/)   | Société de recherche et de conseil, fournissant des solutions éclairées et fondées sur des données dans divers domaines
 | [Deloitte Sénégal](https://www.deloitterecrute.fr/postulez/nos-offres?city_name=Dakar)   | Cabinet d’audit et conseil au Sénégal avec pour mission d’accompagner le dynamisme économique du pays
 | [EXPAT Dakar](https://www.expat-dakar.com/)   | Portail offrant une façon simple, efficace et pratique d’acheter et de vendre des biens ou des services
