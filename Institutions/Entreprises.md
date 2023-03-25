@@ -10,6 +10,7 @@
 | [ATOS Sénégal](https://atos.net/fr/)   | Entreprise de solutions digitales spécialisée dans des services de conseil, des offres de sécurité numérique et de décarbonisation avec une approche de partenariat de bout en bout
 | [ATPS SA](https://atps.africa/)   | Société de technologie spécialisée dans la fourniture de services financiers ainsi que dans le consulting à destination des entreprises, des institutions et des particuliers
 | [Baamtu](https://baamtu.com/)   | Entreprise d’ingénierie logicielle, de business intelligence, et d'intelligence artificielle
+| [Baobab](https://baobab.com/join_us/)   | Baobab est un groupe de services financiers 
 | [BeOpenIT](https://www.beopenit.com/)   | Cabinet de conseil en cloud, DevOps, IA et cybersécurité proposant des formations, des produits et du support
 | [BICIS - Groupe BNP Paribas](https://www.bicis.sn/)   | Banque Internationale pour le Commerce et l’Industrie du Sénégal 
 | [DataBeez](https://data-beez.com/)   | Première startup africaine à visée internationale exclusivement destinée aux métiers de l'IA, du digital et de l'Intelligence Artificielle
@@ -29,8 +30,7 @@
 | [SENELEC](http://www.senelec.sn/)	| Société Nationale d'Électricité du Sénégal
 | [Synapse Center](https://synapsecenter.org/)   | Entreprise sociale à but non lucratif dont le but est de contribuer à un monde durable où l'impact social et le profit sont activement et simultanément entretenus
 | [Wave Sénégal](https://www.wave.com/fr/)   | Entrepise fournissant un service de monnaie électronique 
-| [Way2Call](https://way2call.sn/)   | Société de vente en gros basée au Sénégal
-| [Baobab](https://baobab.com/join_us/)   | Baobab est un groupe de services financiers 
+| [Way2Call](https://way2call.sn/)   | Société de vente en gros basée au Sénégal  
 
 | `MENU` |
 | :-----------:|
