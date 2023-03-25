@@ -15,6 +15,7 @@
 | [DataBeez](https://data-beez.com/)   | Première startup africaine à visée internationale exclusivement destinée aux métiers de l'IA, du digital et de l'Intelligence Artificielle
 | [DataDevAfrica Consulting](http://datadevafrica.com/)   | Société de recherche et de conseil, fournissant des solutions éclairées et fondées sur des données dans divers domaines
 | [Deloitte Sénégal](https://www.deloitterecrute.fr/postulez/nos-offres?city_name=Dakar)   | Cabinet d’audit et conseil au Sénégal avec pour mission d’accompagner le dynamisme économique du pays
+| [DER](https://der.sn/)   | Délégation Générale à l'Entreprenariat Rapide des Femmes et des Jeunes - DERFJ. Structure d’accompagnement technique et financier pour les entrepreneurs sénégalais.
 | [EXPAT Dakar](https://www.expat-dakar.com/)   | Portail offrant une façon simple, efficace et pratique d’acheter et de vendre des biens ou des services
 | [Expresso Sénégal](https://www.expressotelecom.sn/)   | Entreprise africaine de télécommunications et de services d'information
 | [Free Sénégal](https://www.free.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal
