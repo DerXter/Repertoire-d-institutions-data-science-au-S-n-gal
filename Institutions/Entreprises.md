@@ -30,7 +30,8 @@
 | [Synapse Center](https://synapsecenter.org/)   | Entreprise sociale à but non lucratif dont le but est de contribuer à un monde durable où l'impact social et le profit sont activement et simultanément entretenus
 | [Wave Sénégal](https://www.wave.com/fr/)   | Entrepise fournissant un service de monnaie électronique 
 | [Way2Call](https://way2call.sn/)   | Société de vente en gros basée au Sénégal
-  
+| [Baobab](https://baobab.com/join_us/)   | Baobab est un groupe de services financiers 
+
 | `MENU` |
 | :-----------:|
 | [`VOIR LES ORGANISMES PUBLICS`](ONG-Associations.md) 🏢️ |  
