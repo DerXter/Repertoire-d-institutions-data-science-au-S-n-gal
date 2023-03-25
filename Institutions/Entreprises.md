@@ -28,6 +28,7 @@
 | [Performance Group](https://performancesgroup.com/)	| Entreprise de conseil en management auprès des institutions et des entreprises en Afrique francophone
 | [SENELEC](http://www.senelec.sn/)	| Société Nationale d'Électricité du Sénégal
 | [Synapse Center](https://synapsecenter.org/)   | Entreprise sociale à but non lucratif dont le but est de contribuer à un monde durable où l'impact social et le profit sont activement et simultanément entretenus
+| [Wave Sénégal](https://www.wave.com/fr/)   | Entrepise fournissant un service de monnaie électronique 
 | [Way2Call](https://way2call.sn/)   | Société de vente en gros basée au Sénégal
   
 | `MENU` |
