@@ -21,6 +21,7 @@
 | [Expresso Sénégal](https://www.expressotelecom.sn/)   | Entreprise africaine de télécommunications et de services d'information
 | [Free Sénégal](https://www.free.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal
 | [Gitech Sénégal](https://gitechsn.com/)	| Entreprise spécialisée dans la conception de solutions logicielles, l’innovation technologique et la sécurité des réseaux informatiques
+| [Hapidata](https://hapidata.ai/)	| Structure d'accompagnement des entreprises dans l'adoption d'une approche "Data-Driven"
 | [IBM Sénégal](https://www.ibm.com/sn-fr)   | Entreprise évoluant dans les domaines du matériel informatique, du logiciel et des services informatiques
 | [Lengo](https://www.lengo.africa/)   | Start-up basée à Dakar qui propose la première solution digital de retail audit pour permettre aux FMCGs d'arrêter de deviner l'Afrique
 | [Manobi Africa - Agcelerant](https://www.manobi.com/)   | Entreprise orchestrant la création de valeur inclusive au sein des chaînes agricoles et des systèmes d'eau potable
