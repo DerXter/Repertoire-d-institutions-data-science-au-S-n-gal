@@ -10,7 +10,7 @@
 | [ATOS Sénégal](https://atos.net/fr/)   | Entreprise de solutions digitales spécialisée dans des services de conseil, des offres de sécurité numérique et de décarbonisation avec une approche de partenariat de bout en bout
 | [ATPS SA](https://atps.africa/)   | Société de technologie spécialisée dans la fourniture de services financiers ainsi que dans le consulting à destination des entreprises, des institutions et des particuliers
 | [Baamtu](https://baamtu.com/)   | Entreprise d’ingénierie logicielle, de business intelligence, et d'intelligence artificielle
-| [Baobab](https://baobab.com/join_us/)   | Baobab est un groupe de services financiers 
+| [Baobab](https://baobab.com/)   | Baobab est un groupe de services financiers 
 | [BeOpenIT](https://www.beopenit.com/)   | Cabinet de conseil en cloud, DevOps, IA et cybersécurité proposant des formations, des produits et du support
 | [BICIS - Groupe BNP Paribas](https://www.bicis.sn/)   | Banque Internationale pour le Commerce et l’Industrie du Sénégal 
 | [DataBeez](https://data-beez.com/)   | Première startup africaine à visée internationale exclusivement destinée aux métiers de l'IA, du digital et de l'Intelligence Artificielle
