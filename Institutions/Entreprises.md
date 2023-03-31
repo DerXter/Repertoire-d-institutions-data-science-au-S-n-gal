@@ -3,6 +3,7 @@
 
 | `INSTITUTIONS` | `DESCRIPTION` |
 | :-----------:| :----------: |
+| [3FPT](https://www.3fpt.sn/)   | Structure de financement de la formation du personnel des entreprises, des organisations professionnelles, des jeunes en quête de qualification professionnelle et des établissements de formation professionnelle et technique
 | [ADNCorp](https://www.adncorp.com/)   | Société technologique spécialisée en Data, Business Intelligence, IA & Chatbots
 | [Air Sénégal](https://flyairsenegal.com/en/home/)   | Compagnie aérienne nationale sénégalaise
 | [Airudi Afrique](https://www.airudi.com//)   | Compagnie de solutions logicielles qui utilise l'intelligence artificielle pour propulser les ressources humaines
