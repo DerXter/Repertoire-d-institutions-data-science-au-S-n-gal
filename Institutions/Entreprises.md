@@ -13,7 +13,8 @@
 | [Baamtu](https://baamtu.com/)   | Entreprise d’ingénierie logicielle, de business intelligence, et d'intelligence artificielle
 | [Baobab](https://baobab.com/)   | Baobab est un groupe de services financiers 
 | [BeOpenIT](https://www.beopenit.com/)   | Cabinet de conseil en cloud, DevOps, IA et cybersécurité proposant des formations, des produits et du support
-| [BICIS - Groupe BNP Paribas](https://www.bicis.sn/)   | Banque Internationale pour le Commerce et l’Industrie du Sénégal 
+| [BICIS - Groupe BNP Paribas](https://www.bicis.sn/)   | Banque Internationale pour le Commerce et l’Industrie du Sénégal
+| [Concree](https://www.linkedin.com/company/concree/)   | Entreprise spécialisée dans la conception et la gestion de solutions et de programmes entrepreneuriaux pour aider les start-ups à passer de l'idée au modèle commercial évolutif 
 | [DataBeez](https://data-beez.com/)   | Première startup africaine à visée internationale exclusivement destinée aux métiers de l'IA, du digital et de l'Intelligence Artificielle
 | [DataDevAfrica Consulting](http://datadevafrica.com/)   | Société de recherche et de conseil, fournissant des solutions éclairées et fondées sur des données dans divers domaines
 | [Deloitte Sénégal](https://www.deloitterecrute.fr/postulez/nos-offres?city_name=Dakar)   | Cabinet d’audit et conseil au Sénégal avec pour mission d’accompagner le dynamisme économique du pays
@@ -31,6 +32,7 @@
 | [OBERTYS](http://obertys.com/)   | Cabinet spécialisé en technologie bancaire et solutions financières ainsi que l'audit IT, le conseil, la gestion de projet, la formation et le développement de logiciel sur mesure
 | [Orange Sénégal - SONATEL](https://sonatel.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal
 | [Performance Group](https://performancesgroup.com/)	| Entreprise de conseil en management auprès des institutions et des entreprises en Afrique francophone
+| [ProXalys](https://www.linkedin.com/company/proxalys)	| Plateforme africaine spécialisée dans la vente avec paiement échelonné et différé
 | [SENELEC](http://www.senelec.sn/)	| Société Nationale d'Électricité du Sénégal
 | [Synapse Center](https://synapsecenter.org/)   | Entreprise sociale à but non lucratif dont le but est de contribuer à un monde durable où l'impact social et le profit sont activement et simultanément entretenus
 | [Wave Sénégal](https://www.wave.com/fr/)   | Entrepise fournissant un service de monnaie électronique 
