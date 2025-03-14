@@ -22,12 +22,12 @@
 | [EXPAT Dakar](https://www.expat-dakar.com/)   | Portail offrant une façon simple, efficace et pratique d’acheter et de vendre des biens ou des services
 | [Expresso Sénégal](https://www.expressotelecom.sn/)   | Entreprise africaine de télécommunications et de services d'information
 | [Free Sénégal](https://www.free.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal
-| [Gitech Sénégal](https://gitechsn.com/)	| Entreprise spécialisée dans la conception de solutions logicielles, l’innovation technologique et la sécurité des réseaux informatiques
+| [GDi Advisors](https://gdi-advisors.com/)	| Société de conseil en innovation pour les pays émergents
 | [Hapidata](https://hapidata.ai/)	| Structure d'accompagnement des entreprises dans l'adoption d'une approche "Data-Driven"
 | [IBM Sénégal](https://www.ibm.com/sn-fr)   | Entreprise évoluant dans les domaines du matériel informatique, du logiciel et des services informatiques
 | [Jokalante](https://jokalante.com/)   | Entreprise de consulting qui développe des solutions TIC pour que chaque voix compte
 | [Lengo](https://www.lengo.africa/)   | Start-up basée à Dakar qui propose la première solution digital de retail audit pour permettre aux FMCGs d'arrêter de deviner l'Afrique
-| [Loopl](https://loopl.fr/)   | Solution d'externalisation pour une performance clien en boucle
+| [Loopl](https://loopl.fr/)   | Solution d'externalisation pour une performance client en boucle
 | [Manobi Africa - Agcelerant](https://www.manobi.com/)   | Entreprise orchestrant la création de valeur inclusive au sein des chaînes agricoles et des systèmes d'eau potable
 | [MNS Consulting](https://mns-consulting.com/)   | Société internationale de conseil en stratégie et en ingénierie spécialisée dans l'industrie des télécommunications et du numérique
 | [OBERTYS](http://obertys.com/)   | Cabinet spécialisé en technologie bancaire et solutions financières ainsi que l'audit IT, le conseil, la gestion de projet, la formation et le développement de logiciel sur mesure
