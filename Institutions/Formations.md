@@ -18,6 +18,7 @@
 | [Université Alioune DIOP de Bambey](http://www.uadb.edu.sn/) | [Licence en Statistique et Informatique Décisionnelle](http://www.uadb.edu.sn/formations/licences) <br /> [Master en Statistique et Informatique Décisionnelle](http://www.uadb.edu.sn/formations/masters)
 | [Université Iba Der THIAM de Thiès](https://www.univ-thies.sn/) | [Master en Sciences des Données et Applications (SDA)](https://www.univ-thies.sn/index.php/ufr-ses-offre-de-formation/36-formation/offre-de-formation-a-l-ufr-ses/236-sciences-des-donnees#admission) <br /> [Master en Intelligence Artificielle et Smart-Tech (IA et Smart-Tech)](https://cfs.edu.sn/formation/master-en-intelligence-artificielle-et-smart-tech-ia-smarttech/?fbclid=IwAR1pMFZltp5LHNvz9h8cVpY7SseQ2jFL3S0ZVZNL76XJfqOH7ZPIGVkv3S4) -> [Admissions](https://admission.univ-thies.sn/#/campagnerecrutement/35/display)
 | [Université Numérique Cheikh Hamidou Kane - UNCHK](https://www.unchk.sn/) | [Sciences, Technologies et Numérique](https://www.unchk.sn/nos-formations/pole-sciences-technologie-et-numerique/)
+| [Université Rose Dieng France Sénégal (URDFS)](https://urdfs.sn/) | [Licence en data science et intelligence artificielle](https://urdfs.sn/formation/licence-data-science-intelligence-artificielle/)
 
 | `MENU` |
 | :-----------:|
