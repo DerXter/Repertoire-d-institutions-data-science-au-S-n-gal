@@ -37,6 +37,7 @@
 | [Rubyx](https://rubyx.io/) | Des solutions de prêt aux Micro, Petites et Moyennes entreprises (MPME) basées sur des données pour les prestataires de services en Afrique et au-delà
 | [SENELEC](http://www.senelec.sn/)	| Société Nationale d'Électricité du Sénégal
 | [Synapse Center](https://synapsecenter.org/)   | Entreprise sociale à but non lucratif dont le but est de contribuer à un monde durable où l'impact social et le profit sont activement et simultanément entretenus
+| [SYRATE](https://syrate.org/)   |  AI-powered video analytics platforms 
 | [Systalink](https://www.systalink.com/)   |  Hébergement, Cloud et DevOps 
 | [Tolbi](https://tolbi.ai/)   | Climat/AgTech panafricain qui développe des solutions innovantes basées sur l'IA et l'imagerie satellite pour une agriculture intelligente face au climat et la restauration de la nature.
 | [Wave Sénégal](https://www.wave.com/fr/)   | Entrepise fournissant un service de monnaie électronique 
