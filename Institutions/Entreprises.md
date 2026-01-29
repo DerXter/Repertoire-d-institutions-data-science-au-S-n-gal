@@ -27,10 +27,11 @@
 | [Hapidata](https://hapidata.ai/)	| Structure d'accompagnement des entreprises dans l'adoption d'une approche "Data-Driven"
 | [IBM Sénégal](https://www.ibm.com/sn-fr)   | Entreprise évoluant dans les domaines du matériel informatique, du logiciel et des services informatiques
 | [Jokalante](https://jokalante.com/)   | Entreprise de consulting qui développe des solutions TIC pour que chaque voix compte
-| [Lengo](https://www.lengo.africa/)   | Start-up basée à Dakar qui propose la première solution digital de retail audit pour permettre aux FMCGs d'arrêter de deviner l'Afrique
+| [Lengo](https://www.lengo.ai/)   | Start-up basée à Dakar qui propose la première solution digital de retail audit pour permettre aux FMCGs d'arrêter de deviner l'Afrique
 | [Loopl](https://loopl.fr/)   | Solution d'externalisation pour une performance client en boucle
 | [Manobi Africa - Agcelerant](https://www.manobi.com/)   | Entreprise orchestrant la création de valeur inclusive au sein des chaînes agricoles et des systèmes d'eau potable
 | [MNS Consulting](https://mns-consulting.com/)   | Société internationale de conseil en stratégie et en ingénierie spécialisée dans l'industrie des télécommunications et du numérique
+| [Neemba Group](https://neemba.com/en_us/subsidiary/senegal/)   | Le groupe Neemba soutient les secteurs minier, de la construction et industriel grâce à des équipements fiables, des services techniques de pointe et une forte présence dans 11 pays, dont le Sénégal.
 | [OBERTYS](http://obertys.com/)   | Cabinet spécialisé en technologie bancaire et solutions financières ainsi que l'audit IT, le conseil, la gestion de projet, la formation et le développement de logiciel sur mesure
 | [Orange Sénégal - SONATEL](https://sonatel.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal
 | [Performance Group](https://performancesgroup.com/)	| Entreprise de conseil en management auprès des institutions et des entreprises en Afrique francophone
