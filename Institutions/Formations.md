@@ -10,6 +10,7 @@
 | [École Supérieure Multinationale des Télécommunications - ESMT](https://www.esmt.sn/)   | [Master Data Sciences & Intelligences Artificielles (DSIA)](https://www.esmt.sn/fr/cycles-et-diplomes) <br /> *cf. Section E-Learning en bas*
 | [École Polytechnique de Thiès - EPT](https://ept.edu.sn/)| [Mastère spécialisé en Intelligence Artificielle](https://appel-a-candidature.ept.edu.sn/mastere-specialise-en-intelligence-artificielle/) <br /> [Master en Ingénierie Logicielle et Intelligence Artificielle](https://appel-a-candidature.ept.edu.sn/master-en-ingenierie-logicielle-et-intelligence-artificielle/)
 | [École Supérieure Polytechnique de Dakar - ESP](https://esp.sn/) | [Master en Intelligence artificielle et Big data](https://esp.sn/formations/master-en-intelligence-artificielle-et-big-data-miabd/)
+| [Force-N](https://force-n.sn/)  | [Intelligence artificielle et data](https://force-n.sn/formations/intelligence-artificielle-et-data)
 | [GiveOneProject Academy](https://give1project.net/g1p-digital-skills-academy/) | Artificial Intelligence, Data Analytics, Machine Learning, Deep Learning
 | [GOMYCODE](https://gomycode.com/sn/fr/) | [Les fondamentaux de Python](https://gomycode.com/sn/fr/courses/les-fondamentaux-de-python/) <br /> [Bootcamp Data Scientist](https://gomycode.com/sn/fr/courses/bootcamp-data-scientist/) <br /> [Data Analytics - Microsoft Power BI](https://gomycode.com/sn/fr/courses/data-analytics-certification-microsoft-power-bi/)
 | [Institut Africain de Management - IAM](https://www.groupeiam.com/) | [Master en BI & BIG DATA](https://www.groupeiam.com/nosprogrammes/master-en-bi-big-data/)
@@ -21,6 +22,7 @@
 | [Université Iba Der THIAM de Thiès](https://www.univ-thies.sn/) | [Master en Sciences des Données et Applications (SDA)](https://www.univ-thies.sn/index.php/ufr-ses-offre-de-formation/36-formation/offre-de-formation-a-l-ufr-ses/236-sciences-des-donnees#admission) <br /> [Master en Intelligence Artificielle et Smart-Tech (IA et Smart-Tech)](https://cfs.edu.sn/formation/master-en-intelligence-artificielle-et-smart-tech-ia-smarttech/?fbclid=IwAR1pMFZltp5LHNvz9h8cVpY7SseQ2jFL3S0ZVZNL76XJfqOH7ZPIGVkv3S4) -> [Admissions](https://admission.univ-thies.sn/#/campagnerecrutement/35/display)
 | [Université Numérique Cheikh Hamidou Kane - UNCHK](https://www.unchk.sn/) | [Sciences, Technologies et Numérique](https://www.unchk.sn/nos-formations/pole-sciences-technologie-et-numerique/)
 | [Université Rose Dieng France Sénégal (URDFS)](https://urdfs.sn/) | [Licence en data science et intelligence artificielle](https://urdfs.sn/formation/licence-data-science-intelligence-artificielle/)
+| [Xarala Academy](https://www.xarala.co/) | [IA Générative et le Prompt Engineering](https://www.xarala.co/bootcamp/ia-generative-prompt-engineering/details) <br /> [Data Analyst](https://www.xarala.co/bootcamp/data-analyst/details)
 
 | `MENU` |
 | :-----------:|
