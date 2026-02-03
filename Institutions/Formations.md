@@ -23,6 +23,7 @@
 | [Université Numérique Cheikh Hamidou Kane - UNCHK](https://www.unchk.sn/) | [Sciences, Technologies et Numérique](https://www.unchk.sn/nos-formations/pole-sciences-technologie-et-numerique/)
 | [Université Rose Dieng France Sénégal (URDFS)](https://urdfs.sn/) | [Licence en data science et intelligence artificielle](https://urdfs.sn/formation/licence-data-science-intelligence-artificielle/)
 | [Xarala Academy](https://www.xarala.co/) | [IA Générative et le Prompt Engineering](https://www.xarala.co/bootcamp/ia-generative-prompt-engineering/details) <br /> [Data Analyst](https://www.xarala.co/bootcamp/data-analyst/details)
+| [Zone01 Dakar](https://www.zone01dakar.sn/) | [Intelligence Artificielle, Big Data](https://www.zone01dakar.sn/programme/)
 
 | `MENU` |
 | :-----------:|
