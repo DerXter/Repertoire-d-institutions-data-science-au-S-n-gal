@@ -31,6 +31,7 @@
 | [Loopl](https://loopl.fr/)   | Solution d'externalisation pour une performance client en boucle
 | [Manobi Africa - Agcelerant](https://www.manobi.com/)   | Entreprise orchestrant la création de valeur inclusive au sein des chaînes agricoles et des systèmes d'eau potable
 | [MNS Consulting](https://mns-consulting.com/)   | Société internationale de conseil en stratégie et en ingénierie spécialisée dans l'industrie des télécommunications et du numérique
+| [Myriad Fintech](https://fintech.myriadgroup.com/)   | Solutions fintech sur mesure pour accélérer les projets digitaux en Afrique
 | [Neemba Group](https://neemba.com/en_us/subsidiary/senegal/)   | Le groupe Neemba soutient les secteurs minier, de la construction et industriel grâce à des équipements fiables, des services techniques de pointe et une forte présence dans 11 pays, dont le Sénégal.
 | [OBERTYS](http://obertys.com/)   | Cabinet spécialisé en technologie bancaire et solutions financières ainsi que l'audit IT, le conseil, la gestion de projet, la formation et le développement de logiciel sur mesure
 | [Orange Sénégal - SONATEL](https://sonatel.sn/)   | Opérateur de téléphonie mobile français présent au Sénégal
