@@ -45,6 +45,7 @@
 | [Tolbi](https://tolbi.ai/)   | Climat/AgTech panafricain qui développe des solutions innovantes basées sur l'IA et l'imagerie satellite pour une agriculture intelligente face au climat et la restauration de la nature.
 | [Wave Sénégal](https://www.wave.com/fr/)   | Entrepise fournissant un service de monnaie électronique 
 | [Way2Call](https://way2call.sn/)   | Société de vente en gros basée au Sénégal  
+| [YUX Cultural AI Lab](https://yux.design/en-gb/cultural-ai-lab)   | Explore the Cultural Relevance of AI Models and Products by creating Datasets, Tools and Frameworks for Human-Centrered AI Evaluations  
 
 | `MENU` |
 | :-----------:|
